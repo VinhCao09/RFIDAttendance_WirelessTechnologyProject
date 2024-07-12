@@ -7,6 +7,9 @@ Dự án này là một hệ thống IoT có khả năng điểm danh tự độ
 - Đề tài bao gồm một website để xem, quản lý, có khả năng truy cập từ xa.
 - Có chức năng bảo mật thẻ, chống sao chép thẻ (bảo mật với Key A, Sector 3)
 
+*Giao diện website*
+![images](https://github.com/VinhCao09/RFIDAttendance_WirelessTechnologyProject/blob/main/images/1.jpg)
+
 ## Deloy
 https://diemdanhsinhvien.vinhcaodatabase.com/login.php
 
