@@ -7,8 +7,12 @@ Dự án này là một hệ thống IoT có khả năng điểm danh tự độ
 - Đề tài bao gồm một website để xem, quản lý, có khả năng truy cập từ xa.
 - Có chức năng bảo mật thẻ, chống sao chép thẻ (bảo mật với Key A, Sector 3)
 
-*Giao diện website*
+*Giao diện website:*
 ![images](https://github.com/VinhCao09/RFIDAttendance_WirelessTechnologyProject/blob/main/images/1.jpg)
+![images](https://github.com/VinhCao09/RFIDAttendance_WirelessTechnologyProject/blob/main/images/2.jpg)
+
+*Bo mạch thực tế:*
+![images](https://github.com/VinhCao09/RFIDAttendance_WirelessTechnologyProject/blob/main/images/5.jpg)
 
 ## Deloy
 https://diemdanhsinhvien.vinhcaodatabase.com/login.php
@@ -27,13 +31,19 @@ Email: caovanvinh2003@gmail.com - Password: 123
 - Reader: RC522
 - Tag: MIFARE Classic
 
+## Schematic:
+![images](https://github.com/VinhCao09/RFIDAttendance_WirelessTechnologyProject/blob/main/images/7.jpg)
+
+## PCB (Design on EasyEDA):
+![images](https://github.com/VinhCao09/RFIDAttendance_WirelessTechnologyProject/blob/main/images/6.jpg)
+
 ## Intruduction RFID
 
 Công nghệ RFID sử dụng sóng vô tuyến để nhận dạng một cách tự động những đối tượng vật lý như những vật thể sống và vật thể thụ động… vì thế phạm vi mà RFID sẽ nhận dạng bao gồm toàn bộ vật thể sống và không sống trên trái đất và ở xa hơn. Do đó có thể xem công nghệ RFID là một trường hợp của kỹ thuật nhận dạng tự động (Auto-ID) như: mã vạch, sinh trắc, nhận dạng giọng nói…
 
 ![images](https://www.electronicwings.com/storage/PlatformSection/TopicContent/296/description/Raspberry%20Pi%203%20hardware(0).png)
 
-## ## Intruduction Raspberry Pi
+## Intruduction Raspberry Pi
 
 Raspberry Pi is a small single board computer. By connecting peripherals like Keyboard, mouse, display to the Raspberry Pi, it will act as a mini personal computer.
 
