@@ -12,6 +12,7 @@ Dự án này là một hệ thống IoT có khả năng điểm danh tự độ
 ![images](https://github.com/VinhCao09/RFIDAttendance_WirelessTechnologyProject/blob/main/images/2.jpg)
 
 *Bo mạch thực tế:*
+
 ![images](https://github.com/VinhCao09/RFIDAttendance_WirelessTechnologyProject/blob/main/images/5.jpg)
 
 ## Deloy
