@@ -18,7 +18,7 @@ Dự án này là một hệ thống IoT có khả năng điểm danh tự độ
 ## Deloy
 https://diemdanhsinhvien.vinhcaodatabase.com/login.php
 
-Email: caovanvinh2003@gmail.com - Password: 123
+Email trải nghiệm: caovanvinh2003@gmail.com - Password: 123
 
 ## Software - Programming language & Framework
 - Programming for microcontroller: Arduino IDE (2.3.2)
@@ -35,24 +35,16 @@ Email: caovanvinh2003@gmail.com - Password: 123
 ## Schematic:
 ![images](https://github.com/VinhCao09/RFIDAttendance_WirelessTechnologyProject/blob/main/images/7.jpg)
 
-## PCB (Design on EasyEDA):
+## Printed Circuit Board (Design on EasyEDA):
 ![images](https://github.com/VinhCao09/RFIDAttendance_WirelessTechnologyProject/blob/main/images/6.jpg)
 
 ## Intruduction RFID
 
 Công nghệ RFID sử dụng sóng vô tuyến để nhận dạng một cách tự động những đối tượng vật lý như những vật thể sống và vật thể thụ động… vì thế phạm vi mà RFID sẽ nhận dạng bao gồm toàn bộ vật thể sống và không sống trên trái đất và ở xa hơn. Do đó có thể xem công nghệ RFID là một trường hợp của kỹ thuật nhận dạng tự động (Auto-ID) như: mã vạch, sinh trắc, nhận dạng giọng nói…
 
-![images](https://www.electronicwings.com/storage/PlatformSection/TopicContent/296/description/Raspberry%20Pi%203%20hardware(0).png)
+*Thẻ TAG - Mifare Classic thực tế của dự án:*
 
-## Intruduction Raspberry Pi
-
-Raspberry Pi is a small single board computer. By connecting peripherals like Keyboard, mouse, display to the Raspberry Pi, it will act as a mini personal computer.
-
-Raspberry Pi is popularly used for real time Image/Video Processing, IoT based applications and Robotics applications.
-
-Raspberry Pi is slower than laptop or desktop but is still a computer which can provide all the expected features or abilities, at a low power consumption.
-
-![images](https://www.electronicwings.com/storage/PlatformSection/TopicContent/296/description/Raspberry%20Pi%203%20hardware(0).png)
+![images](https://github.com/VinhCao09/RFIDAttendance_WirelessTechnologyProject/blob/main/images/4.jpg)
 
 ## Recommend version
 
