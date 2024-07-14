@@ -21,7 +21,7 @@ https://diemdanhsinhvien.vinhcaodatabase.com/login.php
 Email trải nghiệm: caovanvinh2003@gmail.com - Password: 123
 
 ## ⚛️Software - Programming language & Framework
-- Programming for microcontroller: Arduino IDE (2.3.2)
+- Programming for microcontroller: Arduino IDE (`2.3.2`)
 - Server: PHP - Javascript
 - Website: HTML5, CSS, Bootstrap 5
 - Environment: Apache (XAMPP 3.3.0), PHP 8.2, ESP 8266 2.6.1
@@ -48,21 +48,12 @@ Công nghệ RFID sử dụng sóng vô tuyến để nhận dạng một cách 
 
 ## Recommend version
 
-XAMPP
+XAMPP `version 3.3.0`
 
-```bash
-version 3.3.0
-```
-PHP Version:
+PHP Version: `version 8.2`
 
-```bash
-version 8.2
-```
+ESP8266 Board: `version 2.6.1`
 
-ESP8266 Board:
-```bash
-version 2.6.1
-```
 # ▶️Demo:
 www.youtube.com/watch?v=MK92i8nUNUE
 
