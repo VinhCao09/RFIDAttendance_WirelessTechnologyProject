@@ -55,6 +55,10 @@ PHP Version: `version 8.2`
 ESP8266 Board: `version 2.6.1`
 
 # ▶️Demo:
+👉Click on the icon below to watch the demo video:
+
+[![Watch the video](https://media3.giphy.com/media/A7LF3J4uMJQ4r8ApLg/giphy.gif?cid=6c09b95275l1l3krhehcppcrgllmv64r7jd6py964efin2av&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s)](https://www.youtube.com/watch?v=MK92i8nUNUE)
+
 www.youtube.com/watch?v=MK92i8nUNUE
 
 # 💫About Me :
